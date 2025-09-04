@@ -1,6 +1,6 @@
 # Day 04 — Introduction to Classical Computing & Boolean Algebra  
 **Date:** September 4, 2025  
-**Challenge:** 21-Day Quantum Computing Challenge (QC-2)
+**Challenge:** 21-Day Quantum Computing Challenge (QC-3)
 
 ---
 
